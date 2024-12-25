@@ -17,7 +17,6 @@ apis:
       transcription  https://www.ibm.com/products/speech-to-text
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://www.ibm.com/products/speech-to-text
-    overlays: []
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
