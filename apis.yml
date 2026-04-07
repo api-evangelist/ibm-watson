@@ -9,10 +9,10 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Artificial Intelligence
+  - IBM
   - Machine Learning
   - Natural Language Processing
   - Speech Recognition
-  - IBM
 url: >-
   https://raw.githubusercontent.com/api-evangelist/ibm-watson/refs/heads/main/apis.yml
 created: '2024-03-30'
@@ -28,9 +28,9 @@ apis:
       accurately transcribe human voice.
     humanURL: https://www.ibm.com/products/speech-to-text
     tags:
+      - AI
       - Speech Recognition
       - Transcription
-      - AI
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/speech-to-text
@@ -44,9 +44,9 @@ apis:
       deep learning AI for lifelike speech synthesis.
     humanURL: https://www.ibm.com/products/text-to-speech
     tags:
-      - Text to Speech
-      - Speech Synthesis
       - AI
+      - Speech Synthesis
+      - Text to Speech
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/text-to-speech
@@ -59,9 +59,9 @@ apis:
       keywords, categories, sentiment, emotion, relations, and semantic roles.
     humanURL: https://www.ibm.com/products/natural-language-understanding
     tags:
+      - AI
       - Natural Language Processing
       - Text Analysis
-      - AI
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/natural-language-understanding
@@ -75,8 +75,8 @@ apis:
       natural language and provide helpful responses.
     humanURL: https://www.ibm.com/products/watson-assistant
     tags:
-      - Conversational AI
       - Chatbot
+      - Conversational AI
       - Virtual Assistant
     properties:
       - type: Documentation
