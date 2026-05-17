@@ -34,7 +34,7 @@ apis:
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/speech-to-text
-      - type: Getting Started
+      - type: GettingStarted
         url: https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted
   - aid: ibm-watson:ibm-watson-text-to-speech
     name: IBM Watson Text to Speech
@@ -50,7 +50,7 @@ apis:
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/text-to-speech
-      - type: Getting Started
+      - type: GettingStarted
         url: https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted
   - aid: ibm-watson:ibm-watson-natural-language-understanding
     name: IBM Watson Natural Language Understanding
@@ -65,7 +65,7 @@ apis:
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/natural-language-understanding
-      - type: Getting Started
+      - type: GettingStarted
         url: https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started
   - aid: ibm-watson:ibm-watson-assistant
     name: IBM Watson Assistant
@@ -81,7 +81,7 @@ apis:
     properties:
       - type: Documentation
         url: https://cloud.ibm.com/apidocs/assistant-v2
-      - type: Getting Started
+      - type: GettingStarted
         url: https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started
 common:
   - type: Website
@@ -90,7 +90,7 @@ common:
     url: https://cloud.ibm.com/developer/watson/
   - type: Documentation
     url: https://cloud.ibm.com/docs/watson
-  - type: Getting Started
+  - type: GettingStarted
     url: https://cloud.ibm.com/developer/watson/documentation
   - type: Support
     url: https://www.ibm.com/mysupport
