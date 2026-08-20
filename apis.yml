@@ -22,6 +22,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ibm-watson
 tags:
   - Artificial Intelligence
   - IBM
+  - Machine-Learning
+  - Natural Language Processing
+  - Speech Recognition
+tags_raw:
+  - Artificial Intelligence
+  - IBM
   - Machine Learning
   - Natural Language Processing
   - Speech Recognition
@@ -40,6 +46,10 @@ apis:
       accurately transcribe human voice.
     humanURL: https://www.ibm.com/products/speech-to-text
     tags:
+      - Artificial Intelligence
+      - Speech Recognition
+      - Transcription
+    tags_raw:
       - AI
       - Speech Recognition
       - Transcription
@@ -56,6 +66,10 @@ apis:
       deep learning AI for lifelike speech synthesis.
     humanURL: https://www.ibm.com/products/text-to-speech
     tags:
+      - Artificial Intelligence
+      - Speech Synthesis
+      - Text-to-Speech
+    tags_raw:
       - AI
       - Speech Synthesis
       - Text to Speech
@@ -71,6 +85,10 @@ apis:
       keywords, categories, sentiment, emotion, relations, and semantic roles.
     humanURL: https://www.ibm.com/products/natural-language-understanding
     tags:
+      - Artificial Intelligence
+      - Natural Language Processing
+      - Text Analysis
+    tags_raw:
       - AI
       - Natural Language Processing
       - Text Analysis
@@ -87,6 +105,10 @@ apis:
       natural language and provide helpful responses.
     humanURL: https://www.ibm.com/products/watson-assistant
     tags:
+      - Chatbots
+      - Conversational AI
+      - Virtual Assistant
+    tags_raw:
       - Chatbot
       - Conversational AI
       - Virtual Assistant
