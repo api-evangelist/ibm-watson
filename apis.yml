@@ -72,7 +72,7 @@ apis:
   tags:
   - Artificial Intelligence
   - Speech Synthesis
-  - Text to Speech
+  - Text-to-Speech
   tags_raw:
   - AI
   - Speech Synthesis
@@ -106,7 +106,7 @@ apis:
     AI-powered virtual agents that understand natural language and provide helpful responses.
   humanURL: https://www.ibm.com/products/watson-assistant
   tags:
-  - Chatbot
+  - Chatbots
   - Conversational AI
   - Virtual Assistant
   tags_raw:
