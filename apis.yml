@@ -31,7 +31,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ibm-watson
 tags:
 - Artificial Intelligence
 - IBM
-- Machine-Learning
+- Machine Learning
 - Natural Language Processing
 - Speech Recognition
 tags_raw:
@@ -40,6 +40,7 @@ tags_raw:
 - Machine Learning
 - Natural Language Processing
 - Speech Recognition
+- Machine-Learning
 url: https://raw.githubusercontent.com/api-evangelist/ibm-watson/refs/heads/main/apis.yml
 created: '2024-03-30'
 modified: '2026-08-21'
