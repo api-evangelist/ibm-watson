@@ -120,6 +120,12 @@ apis:
   - type: GettingStarted
     url: https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started
 common:
+- type: Plans
+  url: plans/ibm-watson-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/ibm-watson-rate-limits.yml
+- type: FinOps
+  url: finops/ibm-watson-finops.yml
 - type: ParentCompany
   url: https://apis.io/providers/ibm/
   name: Ibm
