@@ -1,4 +1,4 @@
-# IBM Watson (ibm-watson)
+# IBM Watson
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,96 +66,108 @@
 
 IBM Watson is IBM's AI and machine learning platform offering a suite of cloud-based services including natural language processing, speech recognition, visual recognition, and other AI-powered capabilities for building intelligent applications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ibm-watson/refs/heads/main/apis.yml)
+**Areas:** Artificial Intelligence · IBM · Machine Learning · Natural Language Processing · Speech Recognition
 
-## Scope
+## IBM Watson on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for IBM Watson is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ibm-watson/](https://apis.io/providers/ibm-watson/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (4)
 
- - Artificial Intelligence, Machine Learning, Natural Language Processing, Speech Recognition, IBM
+- [IBM Watson Speech to Text](https://apis.io/apis/ibm-watson/ibm-watson-speech-to-text/) — Convert speech into text using AI-powered speech recognition and transcription. The service uses machine learning to combine knowledge of grammar, language…
+- [IBM Watson Text to Speech](https://apis.io/apis/ibm-watson/ibm-watson-text-to-speech/) — Convert written text to natural-sounding audio in a variety of languages and voices. The service synthesizes natural language text to audio using deep…
+- [IBM Watson Natural Language Understanding](https://apis.io/apis/ibm-watson/ibm-watson-natural-language-understanding/) — Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles.
+- [IBM Watson Assistant](https://apis.io/apis/ibm-watson/ibm-watson-assistant/) — Build, train, and deploy conversational interactions into any application, device, or channel. Create AI-powered virtual agents that understand natural…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-03-30 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### IBM Watson Speech to Text
-Convert speech into text using AI-powered speech recognition and transcription. The service uses machine learning to combine knowledge of grammar, language structure, and audio signal composition to accurately transcribe human voice.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.ibm.com/products/speech-to-text](https://www.ibm.com/products/speech-to-text)
+- [Ibm Watson Domain Security](https://apis.io/security/ibm-watson/ibm-watson-domain-security/)
+- [Ibm Watson Vulnerability Disclosure](https://apis.io/security/ibm-watson/ibm-watson-vulnerability-disclosure/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Speech Recognition, Transcription, AI
+- [Ibm Watson Plans Pricing](https://apis.io/plans/ibm-watson/ibm-watson-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://cloud.ibm.com/apidocs/speech-to-text)
-- [Getting Started](https://cloud.ibm.com/docs/speech-to-text?topic=speech-to-text-gettingStarted)
+Published request limits.
 
-### IBM Watson Text to Speech
-Convert written text to natural-sounding audio in a variety of languages and voices. The service synthesizes natural language text to audio using deep learning AI for lifelike speech synthesis.
+- [Ibm Watson Rate Limits](https://apis.io/rate-limits/ibm-watson/ibm-watson-rate-limits/)
 
-**Human URL:** [https://www.ibm.com/products/text-to-speech](https://www.ibm.com/products/text-to-speech)
+#### FinOps (1)
 
+What the API costs to run, by operation.
 
-#### Tags:
+- [Ibm Watson Finops](https://apis.io/finops/ibm-watson/ibm-watson-finops/)
 
- - Text to Speech, Speech Synthesis, AI
+## Where to find this API
 
-#### Properties
-
-- [Documentation](https://cloud.ibm.com/apidocs/text-to-speech)
-- [Getting Started](https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-gettingStarted)
-
-### IBM Watson Natural Language Understanding
-Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles.
-
-**Human URL:** [https://www.ibm.com/products/natural-language-understanding](https://www.ibm.com/products/natural-language-understanding)
-
-
-#### Tags:
-
- - Natural Language Processing, Text Analysis, AI
-
-#### Properties
-
-- [Documentation](https://cloud.ibm.com/apidocs/natural-language-understanding)
-- [Getting Started](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started)
-
-### IBM Watson Assistant
-Build, train, and deploy conversational interactions into any application, device, or channel. Create AI-powered virtual agents that understand natural language and provide helpful responses.
-
-**Human URL:** [https://www.ibm.com/products/watson-assistant](https://www.ibm.com/products/watson-assistant)
-
-
-#### Tags:
-
- - Conversational AI, Chatbot, Virtual Assistant
-
-#### Properties
-
-- [Documentation](https://cloud.ibm.com/apidocs/assistant-v2)
-- [Getting Started](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-getting-started)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.ibm.com/watson)
-- [Portal](https://cloud.ibm.com/developer/watson/)
 - [Documentation](https://cloud.ibm.com/docs/watson)
-- [Getting Started](https://cloud.ibm.com/developer/watson/documentation)
-- [Support](https://www.ibm.com/mysupport)
+- [Getting started](https://cloud.ibm.com/developer/watson/documentation)
 - [Pricing](https://www.ibm.com/watson/pricing)
+- [Support](https://www.ibm.com/mysupport)
+- [GitHub](https://github.com/ibm-watson)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 17.8** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ibm-watson/](https://apis.io/providers/ibm-watson/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for IBM Watson: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ibm-watson/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
